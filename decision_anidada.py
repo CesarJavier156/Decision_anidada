@@ -1,4 +1,4 @@
-#decision anidada
+
 n1=int(input("ingresa tu calificacion: "))
 if n1==100:
     print("Excelente, felicidades")
